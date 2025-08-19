@@ -1,15 +1,15 @@
 # Zara--website-clone-
 Zara E-Commerce Website
 
-Technologies: HTML, CSS, Bootstrap, JavaScript, React
+Technologies: HTML, CSS, Bootstrap, React
 
 Description:
-Developed a responsive e-commerce website replicating key features of Zara, including product listings, cart functionality, and interactive UI elements. Implemented React components for dynamic rendering and enhanced user experience. Practiced modern frontend and backend integration techniques.
+Designed and implemented the user interface of a Zara-inspired e-commerce website. Focused on creating a responsive, visually appealing layout using Bootstrap and React components. Practiced structuring pages, styling elements, and building interactive UI elements for a seamless user experience.
 
 Features:
 
-Dynamic product listings and cart management
-
 Responsive design for desktop and mobile
 
-User-friendly interface with React components
+Clean, modern layout replicating Zara’s website style
+
+Built with reusable React components
