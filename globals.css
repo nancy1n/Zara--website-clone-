@@ -1,0 +1,27 @@
+.nav-link{
+       color: white;
+    }
+   
+    body{
+        margin-top: 80px;
+     
+    }
+
+    .myclass nav{
+        align-items: center;
+    
+    }
+    .myclass .nav-link{
+        color: black  !important;
+text-align: center;
+gap: 15px;
+    }
+    .carousel-inner img {
+width: 350px;
+height: 350px;
+
+    }
+    .myclass1 .nav-link{
+        font-size: 15px;
+        color: black ;
+    }
